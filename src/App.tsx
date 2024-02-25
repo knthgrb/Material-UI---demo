@@ -7,7 +7,30 @@ import "./App.css";
 // import MuiRadioButton from "./components/MuiRadioButton";
 // import MuiCheckbox from "./components/MuiCheckbox";
 // import MuiSwitch from "./components/MuiSwitch";
-import MuiRating from "./components/MuiRating";
+// import MuiRating from "./components/MuiRating";
+// import MuiAutoComplete from "./components/MuiAutoComplete";
+// import MuiLayout from './components/MuiLayout'
+// import MuiAccordion from './components/MuiAccordion'
+// import MuiImageList from './components/MuiImageList'
+// import MuiCard from './components/MuiCard'
+// import MuiNavbar from './components/MuiNavbar'
+// import MuiLink from './components/MuiLink'
+// import MuiBreadcrumbs from './components/MuiBreadcrumbs'
+// import MuiDrawer from './components/MuiDrawer'
+// import MuiTabs from './components/MuiTabs'
+// import MuiSpeedDial from './components/MuiSpeedDial'
+// import MuiBottomNavigation from './components/MuiBottomNavigation'
+// import MuiAvatar from './components/MuiAvatar'
+// import MuiBadge from './components/MuiBadge'
+// import MuiList from './components/MuiList'
+// import MuiChip from './components/MuiChip'
+// import MuiTooltip from './components/MuiTooltip'
+// import MuiAlert from './components/MuiAlert'
+// import MuiSnackbar from './components/MuiSnackbar'
+// import MuiDialog from './components/MuiDialog'
+// import MuiSkeleton from './components/MuiSkeleton'
+// import MuiProgress from './components/MuiProgress'
+import MuiLoadingButton from "./components/MuiLoadingButton";
 
 function App() {
   return (
@@ -19,7 +42,31 @@ function App() {
       <MuiRadioButton />
       <MuiCheckbox />
       <MuiSwitch /> */}
-      <MuiRating />
+      {/* <MuiRating />
+      <MuiAutoComplete />
+      <MuiLayout />
+      <MuiCard />
+      <MuiAccordion />
+      <MuiImageList />
+      <MuiNavbar />
+      <MuiLink />
+      <MuiBreadcrumbs />
+      <MuiDrawer />
+      <MuiTabs />
+      <MuiSpeedDial />
+      <MuiBottomNavigation />
+      <MuiAvatar />
+      <MuiBadge />
+      <MuiList />
+      <MuiChip />
+      <MuiTooltip />
+      <MuiTable />
+      <MuiAlert />
+      <MuiSnackbar />
+      <MuiDialog />
+      <MuiSkeleton />
+      <MuiProgress /> */}
+      <MuiLoadingButton />
     </Stack>
   );
 }
